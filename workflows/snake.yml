@@ -13,14 +13,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: RackelGonzaga
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=ff79c6&color_dots=#1a1b27,#5b21b6,#7c3aed,#a855f7,#d8b4fe
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
