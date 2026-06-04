@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: RackelGonzaga
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=9D4EDD&color_dots=#161b22,#3C096C,#5A189A,#7B2CBF,#9D4EDD
+            dist/github-contribution-grid-snake.svg?color_snake=ff79c6&color_dots=#1a1b27,#5b21b6,#7c3aed,#a855f7,#d8b4fe
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
