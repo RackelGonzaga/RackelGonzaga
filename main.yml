@@ -3,20 +3,21 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: RackelGonzaga
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=ff79c6&color_dots=#1a1b27,#5b21b6,#7c3aed,#a855f7,#d8b4fe
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
