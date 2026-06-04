@@ -68,10 +68,15 @@ Java • Spring Boot • MySQL • Git • GitHub • VS Code
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="22"> GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RackelGonzaga&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RackelGonzaga&layout=compact&theme=radical" />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RackelGonzaga&show_icons=true&theme=radical"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RackelGonzaga&layout=compact&theme=radical"
+  />
 </p>
-
 ---
 
 ## <img src="https://cdn3.emoji.gg/emojis/589681-kuromiok.gif" width="22"> Streak
