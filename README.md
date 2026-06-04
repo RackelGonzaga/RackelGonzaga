@@ -4,89 +4,103 @@
   </a>
 </div>
 
+<h1 align="center"> Rackel Gonzaga </h1>
+
+<p align="center">
+  <img src="https://media.gifdb.com/cartoon-character-in-front-of-lake-and-rainbows-009wuvyen429m60q.gif" width="250">
+</p>
+
 <h3 align="center">
-Estudante de Sistemas para internet • Desenvolvedora Java em formação
+Java • Spring Boot • Backend Developer
 </h3>
 
-<div align="center">
+<p align="center">
+<img src="https://cdn3.emoji.gg/emojis/86784-pinknotebookflip.gif" width="22"> Estudante de Sistemas para Internet
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-</div>
+  <a href="https://www.instagram.com/rkgz.a">
+    <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
----
-
-## 🌷 Sobre Mim
-
-💻 Estudante de Sistemas para internet
-
-☕ Focada em Java e Spring Boot
-
-📚 Aprendendo desenvolvimento backend
-
-🚀 Construindo projetos para meu portfólio
-
-🎯 Objetivo: atuar como Desenvolvedora Java
+  <a href="mailto:gonzagarackel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🌸 My Stack
+## <img src="https://cdn3.emoji.gg/emojis/434541-pixelheart.png" width="22"> Sobre Mim
 
-<div align="left">
+<img src="https://cdn3.emoji.gg/emojis/86784-pinknotebookflip.gif" width="22"> Estudante de Sistemas para Internet
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img src="https://cdn3.emoji.gg/emojis/167844-coffeemug.gif" width="22"> Focada em Java e Spring Boot
 
-</div>
+<img src="https://cdn3.emoji.gg/emojis/45486-burgyndybooks.png" width="22"> Aprendendo desenvolvimento backend
 
----
+<img src="https://cdn3.emoji.gg/emojis/804833-pixelshootingstar.png" width="22"> Construindo projetos para meu portfólio
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RackelGonzaga&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RackelGonzaga&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
+<img src="https://cdn3.emoji.gg/emojis/38417-scarypingu.png" width="22"> Objetivo: atuar como Desenvolvedora Java
 
 ---
 
-## 🔥 Streak
+## <img src="https://cdn3.emoji.gg/emojis/9472-discord-laptop.png" width="22"> My Stack
 
-<div align="center">
+<p align="center">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RackelGonzaga&theme=radical"/>
-
-</div>
+<p align="center">
+Java • Spring Boot • MySQL • Git • GitHub • VS Code
+</p>
 
 ---
 
-## 🚀 Projetos
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="22"> GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RackelGonzaga&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RackelGonzaga&layout=compact&theme=radical" />
+</p>
+
+---
+
+## <img src="https://cdn3.emoji.gg/emojis/589681-kuromiok.gif" width="22"> Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RackelGonzaga&theme=radical" />
+</p>
+
+---
+
+## <img src="https://cdn3.emoji.gg/emojis/857317-kuromitv.gif" width="22"> Projetos
 
 ### 📚 Sistema de Biblioteca
+
 Sistema em Java utilizando orientação a objetos.
 
 
 ---
 
-## 🐍 Contribuições
+## <img src="https://cdn3.emoji.gg/emojis/200938-kuromilove.gif" width="22"> Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RackelGonzaga/RackelGonzaga/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/RackelGonzaga/RackelGonzaga/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <div align="center">
 
-✨ Sempre aprendendo algo novo ✨
+💗 Na luz existe sombra e na sombra existe possibilidade.
 
 </div>
