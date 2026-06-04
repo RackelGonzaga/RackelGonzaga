@@ -19,7 +19,7 @@ Java • Spring Boot • Backend Developer
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rackel-gonzaga/">
     <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
