@@ -14,10 +14,11 @@ jobs:
 
     steps:
       - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: RackelGonzaga
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
