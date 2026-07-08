@@ -92,8 +92,7 @@ Java • Spring Boot • MySQL • Git • GitHub • VS Code
 
 ### 📚 Sistema de Biblioteca
 
-Sistema em Java utilizando orientação a objetos.
-
+Projeto acadêmico em Java utilizando POO (herança, polimorfismo e encapsulamento), Stream API, tratamento de exceções e API java.time para gerenciamento de empréstimos de livros.
 
 ---
 
