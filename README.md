@@ -1,105 +1,225 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!+%E2%99%A1;Java+Backend+Developer;Analista+em+Engenharia+de+Sistemas+Jr." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<h1>Rackel Gonzaga</h1>
+
+<p>
+  <strong>Java • Spring Boot • Backend Development</strong>
+</p>
+
+<p>
+  Analista em Engenharia de Sistemas Jr. na <strong>NTT DATA</strong><br>
+  Estudante de <strong>Sistemas para Internet</strong><br>
+  Focada em desenvolvimento <strong>Backend com Java</strong>
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/rackel-gonzaga/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gonzagarackel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<h1 align="center"> Rackel Gonzaga </h1>
+---
 
-<p align="center">
-  <img src="https://media.gifdb.com/cartoon-character-in-front-of-lake-and-rainbows-009wuvyen429m60q.gif" width="250">
-</p>
+## Sobre Mim
 
-<h3 align="center">
-Java • Spring Boot • Backend Developer
-</h3>
+Sou **Analista em Engenharia de Sistemas Jr. na NTT DATA** e estudante de **Sistemas para Internet**.
 
-<p align="center">
-<img src="https://cdn3.emoji.gg/emojis/86784-pinknotebookflip.gif" width="22"> Estudante de Sistemas para Internet
-</p>
+Estou construindo minha carreira na área de desenvolvimento de software, com foco em **Backend Java** e no ecossistema **Spring**.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rackel-gonzaga/">
-    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://www.instagram.com/rkgz.a">
-    <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="mailto:gonzagarackel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+Tenho interesse em desenvolvimento de APIs, bancos de dados, testes, boas práticas e arquitetura de software, buscando transformar cada novo conhecimento em prática através de projetos.
 
 ---
 
-## <img src="https://cdn3.emoji.gg/emojis/434541-pixelheart.png" width="22"> Sobre Mim
+## Tech Stack
 
-<img src="https://cdn3.emoji.gg/emojis/86784-pinknotebookflip.gif" width="22"> Estudante de Sistemas para Internet
+<div align="center">
 
-<img src="https://cdn3.emoji.gg/emojis/167844-coffeemug.gif" width="22"> Focada em Java e Spring Boot
+<table>
+<tr>
 
-<img src="https://cdn3.emoji.gg/emojis/45486-burgyndybooks.png" width="22"> Aprendendo desenvolvimento backend
+<td align="center" width="50%">
 
-<img src="https://cdn3.emoji.gg/emojis/804833-pixelshootingstar.png" width="22"> Construindo projetos para meu portfólio
+### Backend
 
-<img src="https://cdn3.emoji.gg/emojis/38417-scarypingu.png" width="22"> Objetivo: atuar como Desenvolvedora Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="48">
+
+</td>
+
+<td align="center" width="50%">
+
+### Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### DevOps & Cloud
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48">
+
+</td>
+
+<td align="center" width="50%">
+
+### Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<code>Java</code> · <code>Spring Boot</code> · <code>Maven</code> · <code>MySQL</code> · <code>PostgreSQL</code> · <code>MongoDB</code><br>
+<code>Docker</code> · <code>Azure</code> · <code>GitHub Actions</code> · <code>Git</code> · <code>GitHub</code> · <code>VS Code</code>
+
+</div>
 
 ---
 
-## <img src="https://cdn3.emoji.gg/emojis/9472-discord-laptop.png" width="22"> My Stack
+## Formação Técnica — BECA Java | NTT DATA
 
-<p align="center">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+Atualmente participo da **Formação Técnica BECA Java da NTT DATA**, aprofundando meus conhecimentos em desenvolvimento de software.
 
-<p align="center">
-Java • Spring Boot • MySQL • Git • GitHub • VS Code
-</p>
+### Java & POO
 
----
+`Java` · `POO` · `Collections` · `Generics` · `Lambdas` · `Stream API`  
+`Exceptions` · `Interfaces` · `Herança` · `Polimorfismo` · `Arrays` · `Concorrência`
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="22"> GitHub Stats
+### Spring & Backend
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RackelGonzaga&show_icons=true&theme=radical"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RackelGonzaga&layout=compact&theme=radical"
-  />
-</p>
+`Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs`  
+`Spring Security` · `Swagger` · `Cache`
 
----
+### Banco de Dados
 
-## <img src="https://cdn3.emoji.gg/emojis/589681-kuromiok.gif" width="22"> Streak
+`SQL` · `NoSQL` · `MySQL` · `PostgreSQL` · `MongoDB` · `JDBC`  
+`Joins` · `Views` · `Transactions` · `Constraints` · `Stored Procedures` · `Triggers`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RackelGonzaga&theme=radical" />
-</p>
+### Testes & Qualidade
 
----
+`JUnit 5` · `Mockito` · `Testes de Integração`  
+`Spring Boot Test` · `Code Coverage` · `SonarQube` · `TDD`
 
-## <img src="https://cdn3.emoji.gg/emojis/857317-kuromitv.gif" width="22"> Projetos
+### Arquitetura & Boas Práticas
 
-### 📚 Sistema de Biblioteca
+`Clean Code` · `SOLID` · `Design Patterns`  
+`Clean Architecture` · `Arquitetura Hexagonal` · `DDD`  
+`Microsserviços` · `Event-Driven Architecture`  
+`Kafka` · `RabbitMQ` · `Observabilidade`
 
-Projeto acadêmico em Java utilizando POO (herança, polimorfismo e encapsulamento), Stream API, tratamento de exceções e API java.time para gerenciamento de empréstimos de livros.
+### Cloud & DevOps
+
+`Azure` · `Docker` · `Dockerfile` · `DockerHub`  
+`GitHub Actions` · `GitLab CI` · `Jenkins`  
+`Prometheus` · `Grafana` · `Datadog`
+
+### Inteligência Artificial
+
+`IA Generativa` · `Prompt Engineering` · `LLMs`
 
 ---
 
-## <img src="https://cdn3.emoji.gg/emojis/200938-kuromilove.gif" width="22"> Contribuições
+## Atualmente
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RackelGonzaga/RackelGonzaga/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45">
+
+<br><br>
+
+<code>Java Backend</code>
+&nbsp;
+<code>Spring Boot</code>
+&nbsp;
+<code>SQL</code>
+&nbsp;
+<code>Testes</code>
+&nbsp;
+<code>Docker</code>
+&nbsp;
+<code>Cloud</code>
+
+</div>
 
 ---
+
+## Projetos
+
+### Sistema de Biblioteca
+
+Projeto acadêmico desenvolvido em Java com foco em **Programação Orientada a Objetos**.
+
+`POO` · `Encapsulamento` · `Herança` · `Polimorfismo`  
+`Collections` · `Stream API` · `Exceptions` · `java.time`
+
+---
+
+### Aurora Banking
+
+Projeto de estudo voltado para o desenvolvimento de uma aplicação bancária utilizando **Java e Spring Boot**.
+
+`POO` · `Interfaces` · `Herança` · `Composição` · `Enums`  
+`Exceptions` · `Validações` · `Spring Boot` · `REST APIs`
+
+---
+
+### Acalme.Me
+
+Projeto voltado para tecnologia e inclusão, buscando utilizar software para criar uma experiência mais acessível e acolhedora.
+
+O projeto une **tecnologia, desenvolvimento de software e impacto social**.
+
+---
+
+<div align="center">
+
+## GitHub
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RackelGonzaga&theme=radical&hide_border=true">
+
+</div>
